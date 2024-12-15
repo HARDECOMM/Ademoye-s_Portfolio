@@ -1,9 +1,12 @@
 ## ABOUT ME
 Hello! I’m Haruna Ademoye 😊, a data analyst, and Machine Learning Specialist with a passion for learning, and turning data into actionable insights. With experience across healthcare, finance, sales, operations, and customer service, I support businesses in solving challenges to unlock growth.
+
 ## THIS IS WHAT I DO
 *As a data analyst of Olalekan Ademoye & Co., I provide stakeholders data driven insights to support decisions for the clients, analyze staff payrolls, and manage their data storage system.*
+
 **-Data Analysis_**
 I provide in-depth analysis and tailored solutions to help you make data driven decisions to stay ahead the competitors. 
+
 **-Data Management_**
 I collect and extract data from various sources such as pdf, invoices, bank statement to identify meaningful insights, anonymize personal data for privacy, ensure data integrity, and conduct metadata for effective data storage.
 
