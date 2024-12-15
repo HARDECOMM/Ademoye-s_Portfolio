@@ -13,7 +13,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 ## *This is the project I've been working on.* 
 
 *Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke. the project was carried out using on Power BI tool.
-![image] (1 Haruna Ademoye data analytics healthcare project.jpg)
+![image] (STROKE DASHBOARD 3-1.JPG)
 <a href = “How to present Data to Executives by Haruna Ademoye.pdf”> Download the report here (pfd file)</a>
 *Analysis of Employee Attrition for HR Using Business Intelligence Analysis Tools.* 
 The project was to help the HR team analyze their employee data to understand why people are leaving their company. 
