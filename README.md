@@ -4,13 +4,13 @@ Hello! I’m Haruna Ademoye 😊, a data analyst, and Machine Learning Specialis
 ## THIS IS WHAT I DO
 *As a data analyst of Olalekan Ademoye & Co., I provide stakeholders data driven insights to support decisions for the clients, analyze staff payrolls, and manage their data storage system.*
 
-**-Data Analysis_**
+**- ✅ Data Analysis_**
 I provide in-depth analysis and tailored solutions to help you make data driven decisions to stay ahead the competitors. 
 
-**-Data Management_**
+**- ✅ Data Management_**
 I collect and extract data from various sources such as pdf, invoices, bank statement to identify meaningful insights, anonymize personal data for privacy, ensure data integrity, and conduct metadata for effective data storage.
 
-**-Overview of the projects i have done**
+*This is the project I've been working on.* 
 
 *Analysis of healthcare dataset to identify the potential demographic on danger of stroke. Using Business Intelligence Analysis Tools.* 
 The project was to help the Healthcare company understand the likely patients to have stroke based on demographic factors, by analyzing the stroke dataset.
