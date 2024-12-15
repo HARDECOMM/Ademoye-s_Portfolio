@@ -10,7 +10,7 @@ I provide in-depth analysis and tailored solutions to help you make data driven 
 **- ✅ Data Management_**
 I collect and extract data from various sources such as pdf, invoices, bank statement to identify meaningful insights, anonymize personal data for privacy, ensure data integrity, and conduct metadata for effective data storage.
 
-*This is the project I've been working on.* 
+## *This is the project I've been working on.* 
 
 *Analysis of healthcare dataset to identify the potential demographic on danger of stroke. Using Business Intelligence Analysis Tools.* 
 The project was to help the Healthcare company understand the likely patients to have stroke based on demographic factors, by analyzing the stroke dataset.
@@ -58,15 +58,43 @@ The project was to help the Business Owner analyze its profit and loss dataset t
 ![image] (1 Haruna Ademoye data analytics healthcare project.jpg)
 <a href = “How to present Data to Executives by Haruna Ademoye.pdf”> Download the report here (pfd file)</a>
 
+<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download 
+the Report here (pdf file)</a> 
+
+
 ## REACH OUT TO ME HERE
-*Let’s connect and see how we can make a difference together !.*
-<table>
-<Tbody>
-<tr>
-	<td>o</td>
-	<td><a>
-href = “Email: <ademoyeharuna@gmail”> ademoyeharuna@gmai
-
-    
-
-A Data Analyst with overall knowledge of data analytics including descriptive, diagnostic, predictive and prescriptive approach to data to help your business unlock growth, eager for learning to stay relevant with industrial trends.  
+ 
+*Let’s connect and see how we can make a difference!* 
+<table> 
+ <tbody> 
+ <tr> 
+ <td>귗귘귙귚귛귝규</td> 
+ <td><a 
+href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td> 
+ </tr> 
+ <tr> 
+ <td>궭궮</td> 
+ <td>(234) 807-490-4427</td> 
+ </tr> 
+ <tr> 
+ <td>굗굙굘</td> 
+ <td>Lagos, Nigeria</td> 
+ </tr> 
+ <tr> 
+ <td>脥</td> 
+ <td><a 
+href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my 
+CV</a></td> 
+ </tr> 
+ <tr> 
+ <td>舏</td> 
+ <td><a href="https://linkedin.com/in/etukanietie">The things I do daily 
+on LinkedIn</a></td> 
+ </tr> 
+ <tr> 
+ <td>긼긽긾깂긿깃깄김깁</td> 
+ <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials 
+on YouTube</a></td> 
+ </tr> 
+ </tbody> 
+</table> 
