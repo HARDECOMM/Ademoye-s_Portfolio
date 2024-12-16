@@ -13,15 +13,22 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 ### *Glimpse of the project I've been working on.* 
 
 *Exploratory Data Analysis and Predictive model that predict if a persons income exceed $50k.
-![image](Haruna Ademoye model.png.PNG)
+![image](Haruna Ademoye Predictive model.png.PNG)
 
-
-
-**Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.**
+*Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
 ![image](Haruna Ademoye Foodborne.png.PNG)
 
-**Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.**
+*Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
 ![image](Haruna Ademoye HR.png.PNG)
+
+*Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
+![image](Haruna Ademoye HR.png.PNG)
+
+
+
+
+
+
 
 <a href = “How to present Data to Executives by Haruna Ademoye.pdf”> Download the report here (pfd file)</a>
 *Analysis of Employee Attrition for HR Using Business Intelligence Analysis Tools.* 
