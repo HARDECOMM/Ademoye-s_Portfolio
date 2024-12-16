@@ -22,8 +22,13 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 ![image](Haruna Ademoye HR.png.PNG)
 
 *Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
-![image](Haruna Ademoye HR.png.PNG)
+![image](Haruna Ademoye Logistic.png.PNG)
 
+*Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
+![image](Haruna Ademoye PROMOTION & DEMOTION.png.PNG)
+
+*Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
+![image](Haruna Ademoye PROMOTION & DEMOTION.png.PNG)
 
 
 
