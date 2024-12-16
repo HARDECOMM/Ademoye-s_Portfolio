@@ -15,89 +15,31 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 *Exploratory Data Analysis and Predictive model that predict if a persons income exceed $50k.
 ![image](Haruna Ademoye Predictive model.png.PNG)
 
-*Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
+*AnalysisAnalysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
 ![image](Haruna Ademoye Foodborne.png.PNG)
 
 *Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
+![image](Haruna Ademoye STROKE.png.PNG)
+
+*Analysis of Employee dataset to identify why people are leaving the company.*
 ![image](Haruna Ademoye HR.png.PNG)
 
-*Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
+*Analysis of shipping dataset to improve inform decision about “delivery efficiency.*
 ![image](Haruna Ademoye Logistic.png.PNG)
 
-*Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
+*Analysis of employee sales data to inform decision about promotion or demotion.*
 ![image](Haruna Ademoye PROMOTION & DEMOTION.png.PNG)
 
-*Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
+*Analysis of sales data to understand profit making.*
 ![image](Haruna Ademoye Profit.png.PNG)
 
-*Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
+*Analysis of profit and loss datasets to understand revenue, expenses, and overall profitability-etuk challenge.*
 ![image](Haruna Ademoye Revenue & Expenses.png.PNG)
 
-
-*Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
-![image](Haruna Ademoye STD_2.png.PNG)
-
-*Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
-![image](Haruna Ademoye STD_2.png.PNG)
-
-
-
-
-*Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
-![image](Haruna Ademoye PROMOTION & DEMOTION.png.PNG)
-
-
-
-
-
-
+*Analysis of healthcare dataset to duration of people l *Maven Analytics Challenge**. Using Business Intelligence Analysis Tools.*
+![image](Haruna Ademoye Revenue & Expenses.png.PNG)
 
 <a href = “How to present Data to Executives by Haruna Ademoye.pdf”> Download the report here (pfd file)</a>
-*Analysis of Employee Attrition for HR Using Business Intelligence Analysis Tools.* 
-The project was to help the HR team analyze their employee data to understand why people are leaving their company. 
-![image] (1 Haruna Ademoye data analytics healthcare project.jpg)
-<a href = “How to present Data to Executives by Haruna Ademoye.pdf”> Download the report here (pfd file)</a>
-
-*Analysis of employee sales data to inform decision about promotion or demotion Using Business Intelligence Analysis Tools.*
-The project was to help the Business Owner analyze their Employee sales data to identify who to promote or demote from their sales representative.
-![image] (1 Haruna Ademoye data analytics healthcare project.jpg)
-<a href = “How to present Data to Executives by Haruna Ademoye.pdf”> Download the report here (pfd file)</a>
-
-*Analysis of employee sales data to understand profit making by the company.Using Business Intelligence Analysis Tools.* 
-The project was to help the Business Owner analyze its sales data to understand its profit making.
-![image] (1 Haruna Ademoye data analytics healthcare project.jpg)
-<a href = “How to present Data to Executives by Haruna Ademoye.pdf”> Download the report here (pfd file)</a>
-
-*Analysis of Sexual Transmitted disease(std) dataset to understand the prevalence of sexual transmitted disease across geographical and demographic factors. Using Business Intelligence Analysis Tools.* 
-The project was to help the public health stakeholders understand the prevalence of sexual transmitted diseases.
-![image] (1 Haruna Ademoye data analytics healthcare project.jpg)
-<a href = “How to present Data to Executives by Haruna Ademoye.pdf”> Download the report here (pfd file)</a>
-
-
-*Analysis of shipping company dataset to improve “delivery efficiency*. Using Business Intelligence Analysis Tools. ** 
-The project was to help the shipping company improve its delivery efficiency by analyzing its historical data.
-![image] (1 Haruna Ademoye data analytics healthcare project.jpg)
-<a href = “How to present Data to Executives by Haruna Ademoye.pdf”> Download the report here (pfd file)</a>
-
-*An overview of the projects I have been working on. *
-**Exploratory Data Analysis and Predictive model Using python libraries such as Numpy, pandas, matplolib & seaborn,  sckit learning.** 
-Exploratory Data Analysis to identify at least 3 meaningful insights using censor dataset, and to build a model that predict if persons’ Income is exceed or below $50. 
-![image] (1 Haruna Ademoye data analytics healthcare project.jpg)
-<a href = “How to present Data to Executives by Haruna Ademoye.pdf”> Download the report here (pfd file)</a>
-
-** Analysis of profit and loss datasets to understand revenue, expenses, and overall profitability *etuk challenge**. Using Business Intelligence Analysis Tools. ** 
-The project was to help the Business Owner analyze its profit and loss dataset to understand its revenue, expenses and the ROI.
-![image] (1 Haruna Ademoye data analytics healthcare project.jpg)
-<a href = “How to present Data to Executives by Haruna Ademoye.pdf”> Download the report here (pfd file)</a>
-
-** Analysis of healthcare dataset to duration of people l *Maven Analytics Challenge**. Using Business Intelligence Analysis Tools. ** 
-The project was to help the Business Owner analyze its profit and loss dataset to understand its revenue, expenses and the ROI.
-![image] (1 Haruna Ademoye data analytics healthcare project.jpg)
-<a href = “How to present Data to Executives by Haruna Ademoye.pdf”> Download the report here (pfd file)</a>
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download 
-the Report here (pdf file)</a> 
-
 
 ## REACH OUT TO ME HERE
  
