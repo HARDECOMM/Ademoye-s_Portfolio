@@ -47,7 +47,8 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 <table> 
  <tbody> 
  <tr> 
- <td>귗귘귙귚귛귝규</td> 
+ <td>![image](https://github.com/user-attachments/assets/5769d11c-edbd-43ee-bad5-04b8d2db3f96)
+   </td> 
  <td><a 
 href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td> 
  </tr> 
