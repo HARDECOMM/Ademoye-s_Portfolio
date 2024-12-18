@@ -46,7 +46,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
       <td>
         <img src="(gmail.png)" width="16" height="16">
       </td>
-<td> <a href="https://linkedin.com/in/harunaademoye">see my LinkedIn to see what i do</a></td> 
+<td><a href="ademoyeharuna@gmail.com"> Ademoyeharuna@gmail.com</a></td> 
  </tr> 
 </tbody>
 </table>
