@@ -45,7 +45,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
   <tbody>
     <tr>
       <td>
-        <img src="./images/gmail.png" width="16" height="16">
+        <img src="./images/"gmail.png" width="16" height="16">
       </td>
       <td>
         <a href="ademoyeharuna@gmail.com"> Ademoyeharuna@gmail.com</a>
