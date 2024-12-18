@@ -51,5 +51,58 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
         <a href="ademoyeharuna@gmail.com"> Ademoyeharuna@gmail.com</a>
       </td>
     </tr>
+   
+ <tr><td>
+ <img src="phone-call.png" width="20" height="16">
+ </td><td>
+  <a href="tel:+2348074904427"> +234 8074 904 427</a>
+      </td> </tr>
+
+
+<tr>
+      <td>
+        <img src="gmail.png" width="20" height="16">
+      </td>
+      <td>
+        <a href="ademoyeharuna@gmail.com"> Ademoyeharuna@gmail.com</a>
+      </td>
+    </tr>
+
+
+
+    <tr>
+      <td>
+        <img src="gmail.png" width="20" height="16">
+      </td>
+      <td>
+        <a href="ademoyeharuna@gmail.com"> Ademoyeharuna@gmail.com</a>
+      </td>
+    </tr>
+
+
+
+   <tr>
+      <td>
+        <img src="gmail.png" width="20" height="16">
+      </td>
+      <td>
+        <a href="ademoyeharuna@gmail.com"> Ademoyeharuna@gmail.com</a>
+      </td>
+    </tr> 
+
+
+
+
+
+
+
+
+
+
+
+   
   </tbody>
 </table>
+
+
+
