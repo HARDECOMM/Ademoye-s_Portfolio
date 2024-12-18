@@ -49,3 +49,35 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
   </tbody>
 </table>
 
+
+
+<table>
+  <tbody>
+    <tr>
+      <td><i class="fas fa-phone" style="font-size: 16px;"></i></td>
+      <td>Call</td>
+    </tr>
+    <tr>
+      <td><i class="fas fa-map-marker-alt" style="font-size: 16px;"></i></td>
+      <td>Location</td>
+    </tr>
+    <tr>
+      <td><i class="fab fa-github" style="font-size: 16px;"></i></td>
+      <td>GitHub</td>
+    </tr>
+    <tr>
+      <td><i class="fab fa-linkedin-in" style="font-size: 16px;"></i></td>
+      <td>LinkedIn</td>
+    </tr>
+    <tr>
+      <td><i class="fas fa-caret-down" style="font-size: 16px;"></i></td>
+      <td>Dropdown</td>
+    </tr>
+    <tr>
+      <td><i class="fas fa-video" style="font-size: 16px;"></i></td>
+      <td>Video</td>
+    </tr>
+  </tbody>
+</table>
+
+
