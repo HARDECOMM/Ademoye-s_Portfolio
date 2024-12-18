@@ -47,10 +47,9 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 <table> 
  <tbody> 
  <tr> 
- <td>![image](https://github.com/user-attachments/assets/5769d11c-edbd-43ee-bad5-04b8d2db3f96)
-   </td> 
+ <td>`<svg xmlns="(link unavailable)" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg> </td> 
  <td><a 
-href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td> 
+href="mailto:ademoyeharuna@gmail.com">ademoyeharuna@gmail.com</a></td> 
  </tr> 
  <tr> 
  <td>궭궮</td> 
@@ -78,3 +77,11 @@ on YouTube</a></td>
  </tr> 
  </tbody> 
 </table> 
+
+
+
+
+- Gmail: `<svg xmlns="(link unavailable)" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>`
+- Call: `<svg xmlns="(link unavailable)" viewBox="0 0 24 24"><path d="M20 12v8h-8v-8h-2v6l4-4-4-4v6h2z"/></svg>`
+- Dropdown: `<svg xmlns="(link unavailable)" viewBox="0 0 24 24"><path d="M7 10l5 5 5-5z"/><path d="M0 0h24v24H0z" fill="none"/></svg>`
+- Location: `<svg xmlns="(link unavailable)" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.34l-1.39-1.39-3.62 3.63 1.39 1.39 3.62-3.63z"/></svg>`
