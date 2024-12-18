@@ -43,10 +43,13 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 <table>
   <tbody>
     <tr>
-      <td>
-        <img src="(gmail.png)" width="16" height="16">
-      </td>
+      <td><img src="(gmail.png)" width="16" height="16"></td>
 <td><a href="ademoyeharuna@gmail.com"> Ademoyeharuna@gmail.com</a></td> 
+ </tr> 
+
+<tr>
+    <td><img src="(phone call.png)" width="16" height="16"></td>
+<td><a href="08074904427"> +2348074904427</a></td> 
  </tr> 
 </tbody>
 </table>
