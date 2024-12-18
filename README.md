@@ -12,32 +12,26 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 
 ### *Glimpse of the project I've been working on.* 
 
-*Exploratory Data Analysis and Predictive model that predict if a persons income exceed $50k.
-![image](Haruna Ademoye Predictive model.png.PNG)*
-
-*AnalysisAnalysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
+*Insights for prevalence of foodborne diseases *
 ![image](Haruna Ademoye Foodborne.png.PNG)
 
-*Analysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
-![image](Haruna Ademoye STROKE.png.PNG)
-
-*Analysis of Employee dataset to identify why people are leaving the company.*
+*Insights for attrition*
 ![image](Haruna Ademoye HR.png.PNG)
 
-*Analysis of shipping dataset to improve inform decision about “delivery efficiency.*
+*Insights for logistic “delivery efficiency.*
 ![image](Haruna Ademoye Logistic.png.PNG)
 
-*Analysis of employee sales data to inform decision about promotion or demotion.*
+*Insights for promotion or demotion.*
 ![image](Haruna Ademoye PROMOTION & DEMOTION.png.PNG)
 
-*Analysis of sales data to understand profit making.*
-![image](Haruna Ademoye Profit.png.PNG)
-
-*Analysis of profit and loss datasets to understand revenue, expenses, and overall profitability-etuk challenge.*
+*insights for revenue, expenses, and overall profitability-etuk challenge.*
 ![image](Haruna Ademoye Revenue & Expenses.png.PNG)
 
-*Analysis of healthcare dataset to duration of people l *Maven Analytics Challenge**. Using Business Intelligence Analysis Tools.*
-![image](Haruna Ademoye Revenue & Expenses.png.PNG)
+*insights for demographic of people that are more likely to have stroke.*
+![image](Haruna Ademoye STROKE.png.PNG)
+
+*Exploratory Data Analysis and Predictive model that predict if a persons income exceed $50k.
+![image](Haruna Ademoye Predictive model.png.PNG)*
 
 <a href = “How to present Data to Executives by Haruna Ademoye.pdf”> Download the report here (pfd file)</a>
 
@@ -60,7 +54,7 @@ href="mailto:ademoyeharuna@gmail.com">ademoyeharuna@gmail.com</a></td>
  </tr> 
  <tr> 
  <td><svg width="16" height="16" viewBox="0 0 24 24" fill="#007bff">
-  <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.34l-1.39-1.39-3.62 3.63 1.39 1.39 3.62-3.63z"/>
+  <path d="M15 10l-1.1 1.1L11 10 2 18h2l3.6-3.6L9 18l1.1-1.1L15 16l3-3-3-3z"/>
 </svg>
  </td> 
  <td>Lagos, Nigeria</td> 
@@ -76,12 +70,17 @@ href="mailto:ademoyeharuna@gmail.com">ademoyeharuna@gmail.com</a></td>
 CV</a></td> 
  </tr> 
  <tr> 
- <td>舏</td> 
- <td><a href="https://linkedin.com/in/etukanietie">The things I do daily 
-on LinkedIn</a></td> 
+ <td><svg width="16" height="16" viewBox="0 0 24 24" fill="#007bff">
+  <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.761 0 5-2.239 5-5v-14c0-2.761-2.239-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12c-.828 0-1.5.671-1.5 1.5s.671 1.5 1.5 1.5 1.5-.671 1.5-1.5-.671-1.5-1.5-1.5zm7 0c-.828 0-1.5.671-1.5 1.5s.671 1.5 1.5 1.5 1.5-.671 1.5-1.5-.671-1.5-1.5-1.5z"/>
+</svg>
+ </td> 
+ <td><a href="https://linkedin.com/in/harunaademoye">see my LinkedIn to see what i do</a></td> 
  </tr> 
  <tr> 
- <td>긼긽긾깂긿깃깄김깁</td> 
+ <td><svg width="16" height="16" viewBox="0 0 24 24" fill="#007bff">
+  <path d="M3 15v6h6v-2H3v-4zm16-5v6h2v-4h-2zm-4 0v6h2v-4h-2zm-4 0v6h2v-4h-2zm2-10v2h14V5H9z"/>
+</svg>
+ </td> 
  <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials 
 on YouTube</a></td> 
  </tr> 
