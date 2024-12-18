@@ -13,7 +13,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 ### *Glimpse of the project I've been working on.* 
 
 *Exploratory Data Analysis and Predictive model that predict if a persons income exceed $50k.
-![image](Haruna Ademoye Predictive model.png.PNG)
+![image](Haruna Ademoye Predictive model.png.PNG)*
 
 *AnalysisAnalysis of stroke dataset to give an insight on demographic of people who are more likely to have stroke.*
 ![image](Haruna Ademoye Foodborne.png.PNG)
@@ -47,22 +47,32 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 <table> 
  <tbody> 
  <tr> 
- <td>`<svg xmlns="(link unavailable)" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg> </td> 
- <td><a 
+ <td><svg width="16" height="16" viewBox="0 0 24 24" fill="#007bff">
+  <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+</svg> <td><a 
 href="mailto:ademoyeharuna@gmail.com">ademoyeharuna@gmail.com</a></td> 
  </tr> 
  <tr> 
- <td>궭궮</td> 
+ <td><svg width="16" height="16" viewBox="0 0 24 24" fill="#007bff">
+  <path d="M20 12v8h-8v-8h-2v6l4-4-4-4v6h2z"/>
+ </svg></td> 
  <td>(234) 807-490-4427</td> 
  </tr> 
  <tr> 
- <td>굗굙굘</td> 
+ <td><svg width="16" height="16" viewBox="0 0 24 24" fill="#007bff">
+  <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.34l-1.39-1.39-3.62 3.63 1.39 1.39 3.62-3.63z"/>
+</svg>
+ </td> 
  <td>Lagos, Nigeria</td> 
  </tr> 
  <tr> 
- <td>脥</td> 
- <td><a 
-href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my 
+ <td><svg width="16" height="16" viewBox="0 0 24 24" fill="#007bff">
+  <path d="M7 10l5 5 5-5z"/>
+  <path d="M0 0h24v24H0z" fill="none"/>
+</svg>
+ </td> 
+ <td>
+  <a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my 
 CV</a></td> 
  </tr> 
  <tr> 
@@ -77,11 +87,3 @@ on YouTube</a></td>
  </tr> 
  </tbody> 
 </table> 
-
-
-
-
-- Gmail: `<svg xmlns="(link unavailable)" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>`
-- Call: `<svg xmlns="(link unavailable)" viewBox="0 0 24 24"><path d="M20 12v8h-8v-8h-2v6l4-4-4-4v6h2z"/></svg>`
-- Dropdown: `<svg xmlns="(link unavailable)" viewBox="0 0 24 24"><path d="M7 10l5 5 5-5z"/><path d="M0 0h24v24H0z" fill="none"/></svg>`
-- Location: `<svg xmlns="(link unavailable)" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.34l-1.39-1.39-3.62 3.63 1.39 1.39 3.62-3.63z"/></svg>`
