@@ -40,44 +40,16 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 ### REACH OUT TO ME
  
 *Let’s connect and see how we can make a difference!* 
-<table>
-  <tbody>
-    <tr>
-      <td><i class="fas fa-envelope" style="font-size: 16px;"></i></td>
-      <td><a href="ademoyeharuna@gmail.com"> Ademoyeharuna@gmail.com</a></td>
-    </tr>
-  </tbody>
-</table>
-
-
 
 <table>
   <tbody>
     <tr>
-      <td><i class="fas fa-phone" style="font-size: 16px;"></i></td>
-      <td>Call</td>
-    </tr>
-    <tr>
-      <td><i class="fas fa-map-marker-alt" style="font-size: 16px;"></i></td>
-      <td>Location</td>
-    </tr>
-    <tr>
-      <td><i class="fab fa-github" style="font-size: 16px;"></i></td>
-      <td>GitHub</td>
-    </tr>
-    <tr>
-      <td><i class="fab fa-linkedin-in" style="font-size: 16px;"></i></td>
-      <td>LinkedIn</td>
-    </tr>
-    <tr>
-      <td><i class="fas fa-caret-down" style="font-size: 16px;"></i></td>
-      <td>Dropdown</td>
-    </tr>
-    <tr>
-      <td><i class="fas fa-video" style="font-size: 16px;"></i></td>
-      <td>Video</td>
+      <td>
+        <img src="./images/gmail.png" width="16" height="16">
+      </td>
+      <td>
+        <a href="ademoyeharuna@gmail.com"> Ademoyeharuna@gmail.com</a>
+      </td>
     </tr>
   </tbody>
 </table>
-
-
