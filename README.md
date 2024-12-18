@@ -63,9 +63,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
  </tr> 
  <tr> 
  <td><svg width="16" height="16" viewBox="0 0 24 24" fill="#007bff">
-  <path d="M7 10l5 5 5-5z"/>
-  <path d="M0 0h24v24H0z" fill="none"/>
-</svg>
+  <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.761 0 5-2.239 5-5v-14c0-2.761-2.239-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12c-.828 0-1.5.671-1.5 1.5s.671 1.5 1.5 1.5 1.5-.671 1.5-1.5-.671-1.5-1.5-1.5zm7 0c-.828 0-1.5.671-1.5 1.5s.671 1.5 1.5 1.5 1.5-.671 1.5-1.5-.671-1.5-1.5-1.5z"/></svg>
  </td> 
  <td>
   <a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my 
