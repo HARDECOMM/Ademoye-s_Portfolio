@@ -44,9 +44,9 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
  <tbody> 
  <tr> 
  <td><svg width="16" height="16" viewBox="0 0 24 24" fill="#007bff">
-  <path gmail.png"/>
-</svg> <td><a 
-href="mailto:ademoyeharuna@gmail.com">ademoyeharuna@gmail.com</a></td> 
+  <path d="gmail.png"/>
+</svg> <td>
+ <a href="mailto:ademoyeharuna@gmail.com">ademoyeharuna@gmail.com</a></td> 
  </tr> 
  <tr> 
  <td><svg width="16" height="16" viewBox="0 0 24 24" fill="#007bff">
@@ -73,7 +73,7 @@ CV</a></td>
  </tr> 
  <tr> 
  <td><svg width="16" height="16" viewBox="0 0 24 24" fill="#007bff">
-  <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.761 0 5-2.239 5-5v-14c0-2.761-2.239-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12c-.828 0-1.5.671-1.5 1.5s.671 1.5 1.5 1.5 1.5-.671 1.5-1.5-.671-1.5-1.5-1.5zm7 0c-.828 0-1.5.671-1.5 1.5s.671 1.5 1.5 1.5 1.5-.671 1.5-1.5-.671-1.5-1.5-1.5z"/>
+  <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.2i39 5 5 5h14c2.761 0 5-2.239 5-5v-14c0-2.761-2.239-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12c-.828 0-1.5.671-1.5 1.5s.671 1.5 1.5 1.5 1.5-.671 1.5-1.5-.671-1.5-1.5-1.5zm7 0c-.828 0-1.5.671-1.5 1.5s.671 1.5 1.5 1.5 1.5-.671 1.5-1.5-.671-1.5-1.5-1.5z"/>
 </svg>
  </td> 
  <td><a href="https://linkedin.com/in/harunaademoye">see my LinkedIn to see what i do</a></td> 
