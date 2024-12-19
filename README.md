@@ -27,6 +27,8 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 ![image](Haruna Ademoye PROMOTION & DEMOTION.png.PNG)
 
 *insights for revenue, expenses, and overall profitability-etuk challenge.*
+<a href=“https://www.linkedin.com/posts/haruna-ademoye-859486110_overview-of-the-analysis-the-dataset-was-activity-7272926786793979904-kYLd?utm_source=share&utm_medium=member_android</a>
+
 ![image](Haruna Ademoye Revenue & Expenses.png.PNG)
 
 *insights for demographic of people that are more likely to have stroke.*
@@ -34,8 +36,6 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 
 *Exploratory Data Analysis and Predictive model that predict if a persons income exceed $50k.
 ![image](Haruna Ademoye Predictive model.png.PNG)*
-
-<a href = “How to present Data to Executives by Haruna Ademoye.pdf”> Download the report here (pfd file)</a>
 
 ### REACH OUT TO ME
  
