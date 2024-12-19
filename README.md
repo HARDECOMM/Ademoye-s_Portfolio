@@ -27,7 +27,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 ![image](Haruna Ademoye PROMOTION & DEMOTION.png.PNG)
 
 *insights for revenue, expenses, and overall profitability-etuk challenge.*
-<a href=“https://www.linkedin.com/posts/haruna-ademoye-859486110_overview-of-the-analysis-the-dataset-was-activity-7272926786793979904-kYLd?utm_source=share&utm_medium=member_android</a>
+<a href=“https://www.linkedin.com/posts/haruna-ademoye-859486110_overview-of-the-analysis-the-dataset-was-activity-7272926786793979904-kYLd?utm_source=share&utm_medium=member_android">*Read More*</a>
 
 ![image](Haruna Ademoye Revenue & Expenses.png.PNG)
 
