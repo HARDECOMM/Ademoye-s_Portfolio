@@ -72,7 +72,13 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
       <td>
 <a href="location@lagos,Nigeria"> Lagos, Nigeria</a>
       </td> </tr> 
-
+  
+  <tr> <td>
+ <img src="linkedin.png" width="20" height="16"></td>
+      <td>
+<a href="https://www.linkedin.com/in/haruna-ademoye-859486110?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"> LinkedIn</a>
+      </td> </tr> 
+  
   </tbody>
 </table>
 
