@@ -61,10 +61,10 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 
 <tr>
       <td>
-        <img src="gmail.png" width="20" height="16">
+        <img src="gthub.png" width="20" height="16">
       </td>
       <td>
-        <a href="ademoyeharuna@gmail.com"> Ademoyeharuna@gmail.com</a>
+        <a href="https://github.com/HARDECOMM"> Gthub</a>
       </td>
     </tr>
 
