@@ -14,7 +14,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 
 # *Glimpse of the project I've been working on.* 
 
-*Insights for prevalence of foodborne diseases *
+*Insights for prevalence of foodborne diseases*
 ![image](Haruna Ademoye Foodborne.png.PNG)
 
 *Insights for attrition*
@@ -23,7 +23,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 *Insights for logistic “delivery efficiency.*
 ![image](Haruna Ademoye Logistic.png.PNG)
 
-*Insights for promotion or demotion.*
+*Insights for promotion & demotion.*
 ![image](Haruna Ademoye PROMOTION & DEMOTION.png.PNG)
 
 *insights for revenue, expenses, and overall profitability-etuk challenge.*
@@ -75,8 +75,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
   
   <tr> <td>
  <img src="linkedin.png" width="20" height="16"></td>
-      <td>
-<a href="https://www.linkedin.com/in/haruna-ademoye-859486110?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"> LinkedIn</a>
+      <td><a href="https://www.linkedin.com/in/haruna-ademoye-859486110?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"> LinkedIn</a>
       </td> </tr> 
   
   </tbody>
