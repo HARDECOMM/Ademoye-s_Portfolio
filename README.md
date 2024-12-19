@@ -28,7 +28,8 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 
 *insights for revenue, expenses, and overall profitability-etuk challenge.*
 ![image](Haruna Ademoye Revenue & Expenses.png.PNG)
-<a href=“https://www.linkedin.com/posts/haruna-ademoye-859486110_overview-of-the-analysis-the-dataset-was-activity-7272926786793979904-kYLd?utm_source=share&utm_medium=member_android">Read More</a>
+
+<a href=“https://www.linkedin.com/posts/haruna-ademoye-859486110_overview-of-the-analysis">Read More</a>
 
 *insights for demographic of people that are more likely to have stroke.*
 ![image](Haruna Ademoye STROKE.png.PNG)
