@@ -57,40 +57,36 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
  </td><td>
   <a href="tel:+2348074904427"> +234 8074 904 427</a>
       </td> </tr>
-
-
 <tr>
-      <td>
-        <img src="github.png" width="20" height="16">
+      <td> <img src="github.png" width="20" height="16"> </td>
+      <td> <a href="https://github.com/HARDECOMM"> Github</a>
+      </td></tr>
+      
+ <tr>
+   <td>
+   <img src="medium.png" width="20" height="16">
       </td>
       <td>
-        <a href="https://github.com/HARDECOMM"> Github</a>
-      </td>
-    </tr>
-
-
-
-    <tr>
-      <td>
-        <img src="gmail.png" width="20" height="16">
-      </td>
-      <td>
-        <a href="ademoyeharuna@gmail.com"> Ademoyeharuna@gmail.com</a>
+        <a href="https://medium.com/@ademoyeharuna)"> Medium</a>
       </td>
     </tr>
-
-
 
    <tr>
       <td>
-        <img src="gmail.png" width="20" height="16">
-      </td>
+        <img src="presentations.png" width="20" height="16"></td>
       <td>
-        <a href="ademoyeharuna@gmail.com"> Ademoyeharuna@gmail.com</a>
+<a href="ademoyeharuna@gmail.com"> Presentations</a>
       </td>
     </tr> 
 
 
+<tr>
+      <td>
+        <img src="presentations.png" width="20" height="16"></td>
+      <td>
+<a href="location@lagos,Nigeria"> Lagos, Nigeria</a>
+      </td>
+    </tr> 
 
 
 
