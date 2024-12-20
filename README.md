@@ -32,7 +32,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 *Insights for "prevalence of foodborne diseases"*
 ![image](Haruna Ademoye Foodborne.png.PNG)
 
-*insights for "healthcare KPI" - MavenAnalyticsHeathcare challenge<a href="https://www.linkedin.com/posts/branislavpoljasevic_mavenhospitalchallengestoke3-activity"> Read More</a>*
+*insights for "healthcare KPI" - MavenAnalyticsHeathcare challenge<a href="https://www.linkedin.com/posts/haruna-ademoye-859486110_mavenhospitalchallenge-activity-7217329038401409025-1y6P?utm_source=share&utm_medium=member_android</a>*
 ![image](Screenshot_20241220-214409.png)
 
 *Exploratory Data Analysis and Predictive model that predict if a persons income exceed $50k.
