@@ -14,14 +14,8 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 
 ## *Glimpse of the project I've been working on.* 
 
-*Insights for "prevalence of foodborne diseases"*
-![image](Haruna Ademoye Foodborne.png.PNG)
-
 *Insights for "Attrition"*
 ![image](Haruna Ademoye HR.png.PNG)
-
-*Insights for "Sexual Transmitted Disease".*
-![image](Haruna Ademoye STD_2.png.PNG)
 
 *Insights for "promotion & demotion".*
 ![image](Haruna Ademoye PROMOTION & DEMOTION.png.PNG)
@@ -32,13 +26,14 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 *insights for "demographic of people that may likely have stroke".*
 ![image](Haruna Ademoye STROKE.png.PNG)
 
-*insights for "understanding healthcare KPI" - MavenAnalyticsHeathcare challenge<a href="[https://www.linkedin.com/posts/haruna-ademoye-859486110_overview-of-the-analysis](https://www.linkedin.com/posts/branislavpoljasevic_mavenhospitalchallengestoke3-activity"> Read More</a>*
-![image](Haruna Ademoye Revenue & Expenses.png.PNG)
+*Insights for "Sexual Transmitted Disease".*
+![image](Haruna Ademoye STD_2.png.PNG)
 
+*Insights for "prevalence of foodborne diseases"*
+![image](Haruna Ademoye Foodborne.png.PNG)
 
-
-
-
+*insights for "healthcare KPI" - MavenAnalyticsHeathcare challenge<a href="https://www.linkedin.com/posts/branislavpoljasevic_mavenhospitalchallengestoke3-activity"> Read More</a>*
+![image](Screenshot_20241220-214409.png)
 
 *Exploratory Data Analysis and Predictive model that predict if a persons income exceed $50k.
 ![image](Haruna Ademoye Predictive model.png.PNG)*
