@@ -14,6 +14,9 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 
 ## *Glimpse of the project I've been working on.* 
 
+*Insights for "Sexual Transmitted Disease".*
+![image](Haruna Ademoye STD_2.png.PNG)
+
 *Insights for "Attrition"*
 ![image](Haruna Ademoye HR.png.PNG)
 
