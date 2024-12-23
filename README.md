@@ -31,16 +31,19 @@ Profit & Loss Analysis to gain insights for "revenue, expenses, and overall prof
 ![image](Haruna Ademoye STROKE.png.PNG)
 
 *Exploratory Data Analysis to gain "Insights for Sexual Transmitted Disease".*
+<a href="https://colab.research.google.com/drive/17R9y7cDyha2ktVVlAnftRPevvI7IiMef?usp=sharing">Read Python_Skill_Related project on google colab</a>*
 ![image](Haruna Ademoye STD_2.png.PNG)
+
 
 *Exploratory Data Analysis to gain Insights for "prevalence of foodborne diseases"*
 ![image](Haruna Ademoye Foodborne.png.PNG)
 
 *Key performances Indicator(KPI) analysis to provide insights for "staeholders" - Maven Analytics Heathcare challenge
-<a href="https://www.linkedin.com/posts/haruna-ademoye 859486110_mavenhospitalchallenge-activity-7217329038401409025">Read More</a>*
+<a href="https://www.linkedin.com/posts/haruna-ademoye-859486110_mavenhospitalchallenge-activity-7217329038401409025-1y6P?utm_source=share&utm_medium=member_desktop">Read More</a>*
 ![image](Screenshot_20241220-214409.png)
 
 *Exploratory Data Analysis and Predictive model that predict if a persons income exceed $50k.
+<a href="https://colab.research.google.com/drive/1FUxgBRuR2fbh6kBAHsBELCMM_gKCIhw7?usp=sharing"> Read More on Google colab through Jupyter Notebook</a>*
 ![image](Haruna Ademoye Predictive model.png.PNG)*
 
 # REACH OUT TO ME
