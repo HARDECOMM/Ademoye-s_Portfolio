@@ -14,28 +14,29 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 
 ## *Glimpse of the project I've been working on.* 
 
-*Insights for "Sexual Transmitted Disease".*
+*Exploratory Data Analysis to gain Insights for "Sexual Transmitted Diseases".*
 ![image](Haruna Ademoye STD_2.png.PNG)
 
-*Insights for "Attrition"*
+*Exploratory Data Analysis to gain Insights for "Attrition"*
 ![image](Haruna Ademoye HR.png.PNG)
 
-*Insights for "promotion & demotion".*
+*Exploratory Data Analysis to gain Insights for "promotion & demotion".*
 ![image](Haruna Ademoye PROMOTION & DEMOTION.png.PNG)
 
-*insights for "revenue, expenses, and overall profitability"-etuk challenge<a href="https://www.linkedin.com/posts/haruna-ademoye-859486110_overview-of-the-analysis"> Read More</a>*
+Profit & Loss Analysis to gain insights for "revenue, expenses, and overall profitability"-etuk challenge
+<a href="https://www.linkedin.com/posts/haruna-ademoye-859486110_overview-of-the-analysis"> Read More</a>*
 ![image](Haruna Ademoye Revenue & Expenses.png.PNG)
 
-*insights for "demographic of people that may likely have stroke".*
+*Exploratoy Data Analysis to gain insights for "demographic of people that with stroke".*
 ![image](Haruna Ademoye STROKE.png.PNG)
 
-*Insights for "Sexual Transmitted Disease".*
+*Exploratory Data Analysis to gain "Insights for Sexual Transmitted Disease".*
 ![image](Haruna Ademoye STD_2.png.PNG)
 
-*Insights for "prevalence of foodborne diseases"*
+*Exploratory Data Analysis to gain Insights for "prevalence of foodborne diseases"*
 ![image](Haruna Ademoye Foodborne.png.PNG)
 
-*insights for "healthcare KPI" - MavenAnalyticsHeathcare challenge
+*Key performances Indicator(KPI) analysis to provide insights for "staeholders" - Maven Analytics Heathcare challenge
 <a href="https://www.linkedin.com/posts/haruna-ademoye 859486110_mavenhospitalchallenge-activity-7217329038401409025">Read More</a>*
 ![image](Screenshot_20241220-214409.png)
 
