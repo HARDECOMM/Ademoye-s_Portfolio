@@ -49,7 +49,6 @@ Profit & Loss Analysis to gain insights for "revenue, expenses, and overall prof
 
 <table>
   <tbody>
-   
     <tr><td><img src="gmail.png" width="20" height="16">
       </td><td>
  <a href="ademoyeharuna@gmail.com"> Ademoyeharuna@gmail.com</a>
