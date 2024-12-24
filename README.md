@@ -83,9 +83,9 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
       </td> </tr> 
 
 <tr> <td>
- <img src="placeholder.png" width="20" height="16"></td>
+ <img src="down-chevron.png" width="20" height="16"></td>
       <td>
-<a href="https://maps.app.goo.gl/FwoJcSH7JaN1LW4Q8">Download My CV</a>
+<a href="https://www.dropbox.com/scl/fi/eo359e09hj90jrv1vrd7o/HARUNA-ADEMOYE-A_CV_org.pdf?rlkey=6jz27oaucp6ztrqinxjcswnjt&st=5qz9ypjr&dl=0">Download My CV</a>
       </td> </tr> 
   
   <tr> <td>
