@@ -46,6 +46,15 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 <a href="https://colab.research.google.com/drive/1FUxgBRuR2fbh6kBAHsBELCMM_gKCIhw7?usp=sharing">**Read More on Google colab through Jupyter Notebook**</a>*
 ![image](Haruna Ademoye Predictive model.png.PNG)*
 
+
+*Exploratory Data Analysis and Predictive model that predict if a persons income exceed $50k.
+<a href="https://colab.research.google.com/drive/1FUxgBRuR2fbh6kBAHsBELCMM_gKCIhw7?usp=sharing">**Read More on Google colab through Jupyter Notebook**</a>*
+![image](Haruna Ademoye Predictive model.png.PNG)*
+
+
+    <img src="presentations.png" width="20" height="16"></td><td><a href="https://drive.google.com/file/d/18yHTEj0MnJpIFaMtrddvYyFdk0fB90qa/view?usp=sharing"> Presentations</a>
+      </td> </tr> 
+
 # REACH OUT TO ME
  
 *Let’s connect and see how we can make a difference!* 
@@ -70,10 +79,6 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
  <tr><td>
    <img src="medium.png" width="20" height="16"> </td><td> <a href="https://medium.com/@ademoyeharuna"> Medium</a>
       </td></tr>
-
-   <tr><td>
-    <img src="presentations.png" width="20" height="16"></td><td><a href="https://drive.google.com/file/d/18yHTEj0MnJpIFaMtrddvYyFdk0fB90qa/view?usp=sharing"> Presentations</a>
-      </td> </tr> 
       
 <tr> <td>
  <img src="placeholder.png" width="20" height="16"></td>
@@ -88,6 +93,3 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
   
   </tbody>
 </table>
-
-
-
