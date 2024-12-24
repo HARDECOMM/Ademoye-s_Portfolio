@@ -47,13 +47,9 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 ![image](Haruna Ademoye Predictive model.png.PNG)*
 
 
-*Exploratory Data Analysis and Predictive model that predict if a persons income exceed $50k.
-<a href="https://colab.research.google.com/drive/1FUxgBRuR2fbh6kBAHsBELCMM_gKCIhw7?usp=sharing">**Read More on Google colab through Jupyter Notebook**</a>*
-![image](Haruna Ademoye Predictive model.png.PNG)*
-
-
-    <img src="presentations.png" width="20" height="16"></td><td><a href="https://drive.google.com/file/d/18yHTEj0MnJpIFaMtrddvYyFdk0fB90qa/view?usp=sharing"> Presentations</a>
-      </td> </tr> 
+*Analysis of Social Buzz content to identify top 10 categories of contents - Accenture Job Simulation Project
+<a href="https://drive.google.com/file/d/18yHTEj0MnJpIFaMtrddvYyFdk0fB90qa/view?usp=sharing">**Here is 10minutes presentation slides**</a>*
+![image](Slide9.PNG)*
 
 # REACH OUT TO ME
  
@@ -84,6 +80,12 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
  <img src="placeholder.png" width="20" height="16"></td>
       <td>
 <a href="https://maps.app.goo.gl/FwoJcSH7JaN1LW4Q8"> Lagos, Nigeria</a>
+      </td> </tr> 
+
+<tr> <td>
+ <img src="placeholder.png" width="20" height="16"></td>
+      <td>
+<a href="https://maps.app.goo.gl/FwoJcSH7JaN1LW4Q8">Download My CV</a>
       </td> </tr> 
   
   <tr> <td>
