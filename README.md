@@ -14,33 +14,32 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 
 ## *Glimpse of the project I've been working on.* 
 
-*Exploratory Data Analysis to gain Insights for "prevalence of foodborne diseases"*
+*Exploratory Data Analysis to gain Insights for "prevalence of foodborne diseases"(** Tool: Power BI**)*
 ![image](Haruna Ademoye Foodborne.png.PNG)
 
-*Profit & Loss Analysis to gain insights for "revenue, expenses, and overall profitability"- Anietie etuk challenge
+*Profit & Loss Analysis to gain insights for "revenue, expenses, and overall profitability"- Anietie etuk challenge(** Tool: Power BI**)
 <a href="https://www.linkedin.com/posts/haruna-ademoye-859486110_overview-of-the-analysis">**Read More**</a>*
 ![image](Haruna Ademoye Revenue & Expenses.png.PNG)
 
-*Exploratory Data Analysis to gain Insights for "Attrition"*
+*Exploratory Data Analysis to gain Insights for "Attrition"(** Tool: Power BI**)*
 ![image](Haruna Ademoye HR.png.PNG)
 
-*Exploratory Data Analysis to gain Insights for "promotion & demotion".*
+## *Exploratory Data Analysis to gain Insights for "promotion & demotion"(** Tool: Power BI**)*
 ![image](Haruna Ademoye PROMOTION & DEMOTION.png.PNG)
 
-*Exploratory Data Analysis to gain "Insights for Sexual Transmitted Disease".
+## *Exploratory Data Analysis to gain "Insights for Sexual Transmitted Disease"(** Tool: Power BI**)
 <a href="https://colab.research.google.com/drive/17R9y7cDyha2ktVVlAnftRPevvI7IiMef?usp=sharing">**Read Python_Skill_Related project on google colab**</a>*
 ![image](Haruna Ademoye STD_2.png.PNG)
 
-*Key performances Indicator(KPI) analysis to provide insights for "staeholders" - Maven Analytics Heathcare challenge
+## *Key performances Indicator(KPI) analysis to provide insights for "stakeholders" - Maven Analytics Heathcare challenge(**Tool: Tableau**)
 <a href="https://www.linkedin.com/posts/haruna-ademoye-859486110_mavenhospitalchallenge-activity-7217329038401409025-1y6P?utm_source=share&utm_medium=member_desktop">**Read More**</a>*
 ![image](Screenshot_20241220-214409.png)
 
-*Exploratory Data Analysis and Predictive model that predict if a persons income exceed $50k.
+*Exploratory Data Analysis and Predictive model that predict if a persons income exceed $50k (** Tool: Pyhton**)
 <a href="https://colab.research.google.com/drive/1FUxgBRuR2fbh6kBAHsBELCMM_gKCIhw7?usp=sharing">**Read More on Google colab through Jupyter Notebook**</a>*
 ![image](Haruna Ademoye Predictive model.png.PNG)*
 
-
-*Analysis of Social Buzz content to identify top 10 categories of contents for the stakeholders"- Accenture Job Simulation Project
+*Analysis of Social Buzz content to identify top 10 categories of contents for the stakeholders"- Accenture Job Simulation Project(** Tool: Spreadsheet**)
 <a href="https://drive.google.com/file/d/18yHTEj0MnJpIFaMtrddvYyFdk0fB90qa/view?usp=sharing">**Here is 10minutes presentation slides**</a>*
 ![image](Slide9.PNG)*
 
