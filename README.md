@@ -68,7 +68,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
       </td></tr>
       
  <tr><td>
-   <img src="medium.png" width="20" height="16"> </td><td> <a href="https://medium.com/@ademoyeharuna)"> Medium</a>
+   <img src="medium.png" width="20" height="16"> </td><td> <a href="https://medium.com/@ademoyeharuna"> Medium</a>
       </td></tr>
 
    <tr><td>
