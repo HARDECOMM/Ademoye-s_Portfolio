@@ -28,14 +28,14 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 ![image](Haruna Ademoye PROMOTION & DEMOTION.png.PNG)
 
 *Exploratory Data Analysis to gain "Insights for Sexual Transmitted Disease"(**Tool: Power BI**)
-<a href="https://colab.research.google.com/drive/17R9y7cDyha2ktVVlAnftRPevvI7IiMef?usp=sharing">**Read Python_Skill_Related project on google colab**</a>*
+<a href="https://colab.research.google.com/drive/17R9y7cDyha2ktVVlAnftRPevvI7IiMef?usp=sharing">** Click to read Python_Related project on google colab**</a>*
 ![image](Haruna Ademoye STD_2.png.PNG)
 
 *Key performances Indicator(KPI) analysis to provide insights for "stakeholders" - Maven Analytics Heathcare challenge(**Tool: Tableau**)
 <a href="https://www.linkedin.com/posts/haruna-ademoye-859486110_mavenhospitalchallenge-activity-7217329038401409025-1y6P?utm_source=share&utm_medium=member_desktop">**Read More**</a>*
 ![image](Screenshot_20241220-214409.png)
 
-*Exploratory Data Analysis and Predictive model that predict if a persons income exceed $50k (** Tool: Pyhton**)
+*Exploratory Data Analysis and Predictive model that predict if a persons income exceed $50k (**Tool: Pyhton**)
 <a href="https://colab.research.google.com/drive/1FUxgBRuR2fbh6kBAHsBELCMM_gKCIhw7?usp=sharing">**Read More on Google colab through Jupyter Notebook**</a>*
 ![image](Haruna Ademoye Predictive model.png.PNG)*
 
