@@ -77,7 +77,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 <tr> <td>
  <img src="down-chevron.png" width="20" height="16"></td>
       <td>
-<a href="https://www.dropbox.com/scl/fi/eo359e09hj90jrv1vrd7o/HARUNA-ADEMOYE-A_CV_org.pdf?rlkey=6jz27oaucp6ztrqinxjcswnjt&st=5qz9ypjr&dl=0">Download My CV</a>
+<a href="https://www.dropbox.com/scl/fi/9vc68grinje7m6e271lam/Haruna_Ademoye_CV.pdf?rlkey=07la5ioc2183tzcmfds2fd7j1&st=cx4rpjoh&dl=0">Download My CV</a>
       </td> </tr> 
   
   <tr> <td>
