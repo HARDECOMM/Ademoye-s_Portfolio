@@ -28,7 +28,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 ![image](Haruna Ademoye PROMOTION & DEMOTION.png.PNG)
 
 *Exploratory Data Analysis to gain "Insights for Sexual Transmitted Disease"(**Tool: Power BI**)
-<a href="https://colab.research.google.com/drive/17R9y7cDyha2ktVVlAnftRPevvI7IiMef?usp=sharing">** Click to read Python_Related project on google colab**</a>*
+<a href="https://colab.research.google.com/drive/17R9y7cDyha2ktVVlAnftRPevvI7IiMef?usp=sharing">**Click to read Python_Related project on google colab**</a>*
 ![image](Haruna Ademoye STD_2.png.PNG)
 
 *Key performances Indicator(KPI) analysis to provide insights for "stakeholders" - Maven Analytics Heathcare challenge(**Tool: Tableau**)
