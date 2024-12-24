@@ -38,7 +38,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 *Exploratory Data Analysis to gain Insights for "prevalence of foodborne diseases"*
 ![image](Haruna Ademoye Foodborne.png.PNG)
 
-*Key performances Indicator(KPI) analysis to provide insights for "staeholders" - Maven Analytics Heathcare challenge*
+*Key performances Indicator(KPI) analysis to provide insights for "staeholders" - Maven Analytics Heathcare challenge
 <a href="https://www.linkedin.com/posts/haruna-ademoye-859486110_mavenhospitalchallenge-activity-7217329038401409025-1y6P?utm_source=share&utm_medium=member_desktop">**Read More**</a>*
 ![image](Screenshot_20241220-214409.png)
 
@@ -72,7 +72,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
       </td></tr>
 
    <tr><td>
-    <img src="presentations.png" width="20" height="16"></td><td><a href="ademoyeharuna@gmail.com"> Presentations</a>
+    <img src="presentations.png" width="20" height="16"></td><td><a href="https://drive.google.com/file/d/18yHTEj0MnJpIFaMtrddvYyFdk0fB90qa/view?usp=sharing"> Presentations</a>
       </td> </tr> 
       
 <tr> <td>
