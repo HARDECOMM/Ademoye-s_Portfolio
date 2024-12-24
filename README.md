@@ -78,7 +78,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 <tr> <td>
  <img src="placeholder.png" width="20" height="16"></td>
       <td>
-<a href="location@lagos,Nigeria"> Lagos, Nigeria</a>
+<a href="https://maps.app.goo.gl/FwoJcSH7JaN1LW4Q8"> Lagos, Nigeria</a>
       </td> </tr> 
   
   <tr> <td>
