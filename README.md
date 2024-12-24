@@ -17,18 +17,15 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 *Exploratory Data Analysis to gain Insights for "Sexual Transmitted Diseases".*
 ![image](Haruna Ademoye STD_2.png.PNG)
 
+*Profit & Loss Analysis to gain insights for "revenue, expenses, and overall profitability"- Anietie etuk challenge*
+<a href="https://www.linkedin.com/posts/haruna-ademoye-859486110_overview-of-the-analysis">**Read More**</a>*
+![image](Haruna Ademoye Revenue & Expenses.png.PNG)
+
 *Exploratory Data Analysis to gain Insights for "Attrition"*
 ![image](Haruna Ademoye HR.png.PNG)
 
 *Exploratory Data Analysis to gain Insights for "promotion & demotion".*
 ![image](Haruna Ademoye PROMOTION & DEMOTION.png.PNG)
-
-*Profit & Loss Analysis to gain insights for "revenue, expenses, and overall profitability"-etuk challenge*
-<a href="https://www.linkedin.com/posts/haruna-ademoye-859486110_overview-of-the-analysis">**Read More**</a>*
-![image](Haruna Ademoye Revenue & Expenses.png.PNG)
-
-*Exploratoy Data Analysis to gain insights for "demographic of people that with stroke".*
-![image](Haruna Ademoye STROKE.png.PNG)
 
 *Exploratory Data Analysis to gain "Insights for Sexual Transmitted Disease".
 <a href="https://colab.research.google.com/drive/17R9y7cDyha2ktVVlAnftRPevvI7IiMef?usp=sharing">**Read Python_Skill_Related project on google colab**</a>*
@@ -47,7 +44,7 @@ I collect and extract data from various sources such as pdf, invoices, bank stat
 ![image](Haruna Ademoye Predictive model.png.PNG)*
 
 
-*Analysis of Social Buzz content to identify top 10 categories of contents - Accenture Job Simulation Project
+*Analysis of Social Buzz content to identify top 10 categories of contents for the stakeholders"- Accenture Job Simulation Project
 <a href="https://drive.google.com/file/d/18yHTEj0MnJpIFaMtrddvYyFdk0fB90qa/view?usp=sharing">**Here is 10minutes presentation slides**</a>*
 ![image](Slide9.PNG)*
 
